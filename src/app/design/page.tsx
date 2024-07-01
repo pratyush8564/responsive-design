@@ -1,14 +1,13 @@
-import Navbar from "@/components/Navbar";
 import React from "react";
-import Services from "@/components/ServiceCard";
-import Tabs from "@/components/Tabs";
-import DataAnalysisSection from "@/components/DataAnalysisSection";
-import StatsSection from "@/components/StatsSection";
-import TestimonialSection from "@/components/TestimonialSection";
-import Solutions from "@/components/Solutions";
-import Footer from "@/components/Footer";
-import Link from "next/link";
-import Cards from "@/components/Cards";
+import Cards from "../../components/Cards";
+import DataAnalysisSection from "../../components/DataAnalysisSection";
+import Footer from "../../components/Footer";
+import Navbar from "../../components/Navbar";
+import Services from "../../components/ServiceCard";
+import Solutions from "../../components/Solutions";
+import StatsSection from "../../components/StatsSection";
+import Tabs from "../../components/Tabs";
+import TestimonialSection from "../../components/TestimonialSection";
 
 const page = () => {
   return (

@@ -74,7 +74,7 @@ const Page = () => {
                 Reason
               </label>
               <textarea
-                className="rounded shadow-lg border-2 p-2 w-96 shadow appearance-none  text-gray-700 leading-tight focus:ring transform transition hover:scale-105 duration-300 ease-in-out"
+                className="rounded shadow-lg border-2 p-2 w-96  appearance-none  text-gray-700 leading-tight focus:ring transform transition hover:scale-105 duration-300 ease-in-out"
                 id="reason"
               />
             </div>

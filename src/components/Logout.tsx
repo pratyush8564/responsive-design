@@ -1,5 +1,5 @@
 import React from 'react'
-import { doLogout } from '@/app/actions'
+import { doLogout } from '../app/actions';
 
 const Logout = () => {
   return (
@@ -9,4 +9,4 @@ const Logout = () => {
   )
 }
 
-export default Logout
+export default Logout;

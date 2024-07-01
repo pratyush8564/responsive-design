@@ -1,7 +1,7 @@
 "use client"
 import React from 'react'
-import { doSocialLogin } from '@/app/actions'
 import { useState } from 'react'
+import { doSocialLogin } from '../app/actions';
 
 const LoginForm = () => {
 
@@ -47,4 +47,4 @@ setShowFullText(preShowFullText => !preShowFullText);
   )
 }
 
-export default LoginForm
+export default LoginForm;
